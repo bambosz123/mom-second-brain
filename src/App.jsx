@@ -9,7 +9,6 @@ import Footer from './components/Footer';
 import Terms from './pages/Terms';
 import Privacy from './pages/Privacy';
 import Contact from './pages/Contact';
-import Success from './pages/Success';
 import { useEffect } from 'react';
 import { useLocation } from 'react-router-dom';
 
@@ -47,7 +46,6 @@ export default function App() {
           <Route path="/terms" element={<Terms />} />
           <Route path="/privacy" element={<Privacy />} />
           <Route path="/contact" element={<Contact />} />
-          <Route path="/success" element={<Success />} />
         </Routes>
       </div>
     </BrowserRouter>
