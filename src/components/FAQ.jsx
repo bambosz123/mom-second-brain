@@ -11,7 +11,7 @@ const faqs = [
     {
         question: 'I\'m not tech-savvy. Is this hard to set up?',
         answer:
-            'Not at all! The template comes with a step-by-step video walkthrough (under 10 minutes) that guides you through everything. If you can drag and drop, you can use this. Plus, our priority email support is here if you ever get stuck.',
+            'Not at all! The planner comes with a step-by-step video walkthrough (under 10 minutes) that guides you through everything. If you can drag and drop, you can use this. Plus, our priority email support is here if you ever get stuck.',
     },
     {
         question: 'Can I customize it for my family\'s needs?',

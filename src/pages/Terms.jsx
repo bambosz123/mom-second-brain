@@ -30,7 +30,7 @@ export default function Terms() {
                             <p>
                                 These Terms of Service ("Terms") govern your purchase and use of digital products
                                 sold by Lumine Studio ("we", "us", "our"), including but not limited to the
-                                "Mom's Second Brain" Notion template. By purchasing or using our products, you
+                                "Mom's Second Brain" PDF digital planner. By purchasing or using our products, you
                                 agree to be bound by these Terms.
                             </p>
                         </section>
@@ -38,8 +38,8 @@ export default function Terms() {
                         <section>
                             <h2 className="font-serif text-xl font-semibold text-brown mb-3">2. Digital Products</h2>
                             <p>
-                                Our products are digital templates designed for use with Notion. Upon purchase,
-                                you will receive a link to duplicate the template to your personal Notion workspace.
+                                Our products are digital planners designed for use as a PDF. Upon purchase,
+                                you will receive a link to download the PDF to your personal device.
                                 All sales are for personal, non-commercial use unless otherwise stated.
                             </p>
                         </section>
@@ -65,9 +65,9 @@ export default function Terms() {
                         <section>
                             <h2 className="font-serif text-xl font-semibold text-brown mb-3">5. Intellectual Property</h2>
                             <p>
-                                All content, designs, and templates are the intellectual property of Lumine Studio.
-                                You may not resell, redistribute, or share your purchased templates. You are
-                                granted a personal, non-transferable license to use the template for your own purposes.
+                                All content, designs, and planners are the intellectual property of Lumine Studio.
+                                You may not resell, redistribute, or share your purchased planners. You are
+                                granted a personal, non-transferable license to use the planner for your own purposes.
                             </p>
                         </section>
 
@@ -75,7 +75,7 @@ export default function Terms() {
                             <h2 className="font-serif text-xl font-semibold text-brown mb-3">6. Limitation of Liability</h2>
                             <p>
                                 Our products are provided "as is." We make no warranties regarding the suitability
-                                of our templates for your specific needs. Lumine Studio shall not be liable for any
+                                of our planners for your specific needs. Lumine Studio shall not be liable for any
                                 indirect, incidental, or consequential damages arising from the use of our products.
                             </p>
                         </section>

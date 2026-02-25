@@ -6,14 +6,14 @@ const testimonials = [
     {
         name: 'Sarah M.',
         role: 'Mom of 3',
-        text: "I used to spend Sunday nights panicking about the week ahead. Now I open my Notion dashboard, and everything is right there. I've saved at least 5 hours a week — and my sanity.",
+        text: "I used to spend Sunday nights panicking about the week ahead. Now I open my PDF planner, and everything is right there. I've saved at least 5 hours a week — and my sanity.",
         stars: 5,
         gradient: 'from-pink-50 to-rose-50',
     },
     {
         name: 'Jessica T.',
         role: 'Working Mom',
-        text: "I tried every app out there — nothing stuck. This template just works because it thinks like a mom. The meal planner alone is worth 10x the price. My husband is honestly impressed.",
+        text: "I tried every app out there — nothing stuck. This planner just works because it thinks like a mom. The meal planner alone is worth 10x the price. My husband is honestly impressed.",
         stars: 5,
         gradient: 'from-amber-50 to-yellow-50',
     },
