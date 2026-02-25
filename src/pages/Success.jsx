@@ -3,8 +3,7 @@ import { Download, CheckCircle, ArrowRight } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 export default function Success() {
-    // 💡 TUTAJ WKLEJ SWÓJ LINK DO GOOGLE DRIVE LUB BEZPOŚREDNI DO PDF:
-    const pdfDownloadLink = "https://drive.google.com/your-pdf-download-link";
+    const pdfDownloadLink = "https://drive.google.com/file/d/1kjmufsYWmsjdyMt7ZjIEp0GmfODtn90o/view?usp=drive_link";
 
     return (
         <div className="min-h-screen bg-cream flex flex-col items-center justify-center p-6 text-center">
